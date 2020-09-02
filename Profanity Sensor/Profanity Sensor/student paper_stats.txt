@@ -1,0 +1,7 @@
+Original File Name: student paper
+Copied file name: student paper_copy.txt
+Filtered file name: student paper_filtered.txt
+Number of Profanity words: 5
+Filter strictness level: Partial
+Number of words in Paper: 41
+Ratio of Regular to Pofanity: 8.2

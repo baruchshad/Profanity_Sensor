@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\kirito\documents\baruchprograms\profanity sensor\profanity sensor\profanity sensor\source.cpp(201): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kirito\documents\baruchprograms\profanity sensor\profanity sensor\profanity sensor\source.cpp(230): warning C4101: 'tryagain': unreferenced local variable
+  Profanity Sensor.vcxproj -> C:\Users\KIRITO\Documents\BaruchPrograms\Profanity Sensor\Profanity Sensor\x64\Debug\Profanity Sensor.exe

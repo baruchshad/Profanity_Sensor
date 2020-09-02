@@ -1,0 +1,10 @@
+anglur
+barracuda
+cat
+dog
+bear
+lion
+cow
+lepoard
+anaconda
+zebra
